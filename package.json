@@ -1,0 +1,18 @@
+{
+  "name": "hacker-next",
+  "version": "1.0.0",
+  "description": "Clon de hacker news con NextJs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "Luis Perez",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
