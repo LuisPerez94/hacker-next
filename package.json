@@ -2,7 +2,7 @@
   "name": "hacker-next",
   "version": "1.0.0",
   "description": "Clon de hacker news con NextJs",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "dev": "next",
     "start": "next",
