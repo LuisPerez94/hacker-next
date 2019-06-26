@@ -7,7 +7,7 @@
     "dev": "next",
     "start": "next",
     "build": "next build",
-    "heroku-postbuild": "next build"
+    "heroku-postbuild": "heroku-nextjs-build"
   },
   "keywords": [],
   "author": "Luis Perez",
