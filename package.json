@@ -4,7 +4,10 @@
   "description": "Clon de hacker news con NextJs",
   "main": "server.js",
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "start": "NODE_ENV=production node server.js",
+    "build": "next build",
+    "heroku-postbuild": "next build"
   },
   "keywords": [],
   "author": "Luis Perez",
