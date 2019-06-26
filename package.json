@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "start": "next",
     "build": "next build",
-    "heroku-postbuild": "heroku-nextjs-build"
+    "start": "next start -p $PORT"
   },
   "keywords": [],
   "author": "Luis Perez",
